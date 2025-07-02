@@ -4,8 +4,12 @@ import './Home.css';
 function Home() {
   return (
     <div className="page home-page">
-      <h1>Home</h1>
-      <p>This is the Home page. Replace this with your content.</p>
+      <img
+        src={process.env.PUBLIC_URL + '/images/mylogo.png'}
+        alt="Portfolio Logo"
+        className="home-logo"
+        style={{ maxWidth: '500px', width: '90%', height: 'auto', margin: '0 auto 2rem auto', display: 'block' }}
+      />
     </div>
   );
 }
