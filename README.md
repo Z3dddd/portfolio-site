@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Website old TRASH ASS WEBSITE LOOKING ASS 
 
 A modern, responsive portfolio website inspired by architectural design principles. Built with HTML, CSS, and JavaScript.
 
